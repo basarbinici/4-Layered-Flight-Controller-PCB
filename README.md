@@ -17,7 +17,7 @@
 
 ## Hardware Architecture
 
-The board is designed around a high-performance flight-control MCU and uses three independent SPI-connected IMUs for redundant motion sensing.
+The board is designed around a high-performance flight-control MCU and uses three independent SPI-connected IMUs for motion sensing.
 
 Additional onboard sensors provide:
 
