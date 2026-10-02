@@ -8868,14 +8868,15 @@
 				)
 			)
 		)
-		(property "Value" "+1V8"
-			(at 266.7 127 0)
+		(property "Value" "ICM_VDD(1V8)"
+			(at 269.24 130.8099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -11344,14 +11345,15 @@
 				)
 			)
 		)
-		(property "Value" "+1V8"
-			(at 243.84 231.14 0)
+		(property "Value" "ISM_VDD(1V8)"
+			(at 246.38 234.9499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -11823,7 +11825,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b4668cb3-f4f4-4cf7-ba98-1cc814a427b4")
 		(property "Reference" "#PWR02"
 			(at 78.74 30.48 0)
@@ -11836,14 +11837,15 @@
 				)
 			)
 		)
-		(property "Value" "+1V8"
-			(at 78.74 21.59 0)
+		(property "Value" "ISM_VDD(1V8)"
+			(at 64.262 25.146 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -14016,14 +14018,15 @@
 				)
 			)
 		)
-		(property "Value" "+1V8"
-			(at 243.84 199.39 0)
+		(property "Value" "ICM_VDD(1V8)"
+			(at 246.38 203.1999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
